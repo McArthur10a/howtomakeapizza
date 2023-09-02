@@ -13,6 +13,7 @@
 > ###### 👉 Enlace de la pagina fuente: [comedera.com][def]
 
 ## PREPARACIÓN DE LA MASA:
+![ingredientes y masa][preparación]
 
 En un envase plástico grande mezcla la levadura y el agua. Agrega las **2 cucharadas** de **aceite vegetal**, revuelve un poco con los dedos y comienza a incorporar la harina de trigo poco a poco. Agrega también la pizca de sal y de azúcar.
 
@@ -42,15 +43,15 @@ Una vez puesta y bien distribuida la masa en el molde,**déjala reposar unos 5 m
 
 Hasta aquí tienes la explicación completa de cómo hacer masa para pizza. Ahora aprendamos como hacer pizza, sus ingredientes y su cocción en el horno.
 
-1. Ingredientes
-2. Masa para pizza previamente hecha
-3. 1/2 lata de tomate ó 4 tomates grandes pelados
-4. 100 gr de queso mozzarella
-5. 1/2 pimentón tamaño mediano
-6. 1/2 cebolla tamaño mediano
-7. 50 gr de jamón cocido salchicha ó peperoni
-8. Una pizca de orégano
-9. Una pizca de sal
+### Ingredientes
+1. Masa para pizza previamente hecha
+2. 1/2 lata de tomate ó 4 tomates grandes pelados
+3. 100 gr de queso mozzarella
+4. 1/2 pimentón tamaño mediano
+5. 1/2 cebolla tamaño mediano
+6. 50 gr de jamón cocido salchicha ó peperoni
+7. Una pizca de orégano
+8. Una pizca de sal
 
 ### Elaboración paso a paso
 
@@ -70,3 +71,4 @@ El **punto exacto de la pizza** es: **el queso derretido y ligeramente dorado po
 
 [def]: https://www.comedera.com/como-hacer-pizza-casera/ "Haz CLic Aqui para ver la paginaweb de tu receta"
 [def2]: pizza1.jpg
+[preparación]: imagenes/masa-de-pizza-casera1.png
